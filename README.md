@@ -1,1 +1,1 @@
-# Electric Vehicle Charging Station Snalysis using GCP
+# Electric Vehicle Charging Station Analysis using GCP
